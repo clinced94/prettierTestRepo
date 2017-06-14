@@ -1,0 +1,3 @@
+rootProject.name = 'prettierTest'
+
+include ':app'
